@@ -11,6 +11,7 @@
     "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
+    "@ahmedsalah172002/nozolan-lib": "0.1.1",
     "@AhmedSalah172002/nozolan-lib": "npm:@ahmedsalah172002/nozolan-lib@^0.1.0",
     "@mui/material": "^5.15.2",
     "@mui/system": "^5.15.2",
